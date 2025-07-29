@@ -1,9 +1,8 @@
 # Project Name : Steganography-Tools
 # Made By - Om Sawant
 
-## Project Demo Implementation Video :
+## Project Demo Implementation Video 
 
-https://user-images.githubusercontent.com/77832407/183821992-df55c835-ae41-4cd8-8253-6cbe7881eaf8.mp4
 
 
 * Steganography is the art of hiding the fact that communication is taking place, by hiding information in other information. 
