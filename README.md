@@ -1,7 +1,6 @@
 # Project Name : Steganography-Tools
 # Made By - Om Sawant
 
-## Project Demo Implementation Video 
 
 
 
