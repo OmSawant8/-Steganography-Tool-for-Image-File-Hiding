@@ -1,5 +1,5 @@
 # Project Name : Steganography-Tools
-# Made By - Priyansh Sharma
+# Made By - Om Sawant
 
 ## Project Demo Implementation Video :
 
